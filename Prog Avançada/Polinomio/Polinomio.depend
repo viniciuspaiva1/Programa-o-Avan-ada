@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1651628693 source:c:\users\paiva\desktop\polinomio\main.cpp
+	<iostream>
+	<string>
+	"Polinomio.h"
+
+1651629007 source:c:\users\paiva\desktop\polinomio\polinomio.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<fstream>
+	"Polinomio.h"
+
+1651452899 c:\users\paiva\desktop\polinomio\polinomio.h
+	<iostream>
+

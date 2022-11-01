@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1648779304 source:c:\users\vinic\documents\ufrn\semestre 2022.1\programação avançada\labirinto\coord.cpp
+	<cmath>
+	"coord.h"
+
+1648779304 c:\users\vinic\documents\ufrn\semestre 2022.1\programação avançada\labirinto\coord.h
+	<iostream>
+
+1653690581 source:c:\users\vinic\documents\ufrn\semestre 2022.1\programação avançada\labirinto\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"labirinto.h"
+
+1653669682 c:\users\vinic\documents\ufrn\semestre 2022.1\programação avançada\labirinto\labirinto.h
+	<vector>
+	"coord.h"
+
+1648779304 source:c:\users\vinic\documents\ufrn\semestre 2022.1\programação avançada\labirinto\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
